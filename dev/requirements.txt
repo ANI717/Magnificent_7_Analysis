@@ -1,6 +1,10 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
 ipykernel==6.29.5
 lightgbm==4.6.0
 mlflow==3.1.1
 scikit-learn==1.7.0
+torch==2.7.1+cu118
+torchvision==0.22.1+cu118
+torchaudio==2.7.1+cu118
 xgboost==3.0.2
 yfinance==0.2.65
